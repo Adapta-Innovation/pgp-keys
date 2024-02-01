@@ -6,3 +6,4 @@ Or you can use this: https://keys.mailvelope.com/pks/lookup?op=get&search=securi
 
 To use GPG directly from GMail, use: https://mailvelope.com/en
 
+You can find our responsible disclosure https://adapta.nl/responsible-disclosure/ <<-here
